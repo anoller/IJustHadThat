@@ -3,6 +3,8 @@
 	<name>IJustHadThat</name>
 	<comment></comment>
 	<projects>
+		<project>google-play-services_lib</project>
+		<project>googleplaces</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

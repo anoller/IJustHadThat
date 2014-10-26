@@ -33,9 +33,8 @@ import android.widget.LinearLayout;
 
 public class AutoAddConfirmationDialog extends DialogFragment {
 	//TODO Figure out Android API_KEY - why doesn't this work?
-	//public final String API_KEY = "AIzaSyDW5GoQNHriETgp7SfdbzDR20UqvXhf_1A";
-	public final String API_KEY = "AIzaSyA1gYh-ibMwdJ-kaXx941-qwAP1PJGK-lU";
-	List<Place> places;
+	public final String API_KEY = "API KEY"; //TODO Replace placeholder
+	ArrayList<Place> places;
 	Button showResult;
 	LinearLayout layout;
 	int pressCount = 0;

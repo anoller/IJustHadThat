@@ -1,5 +1,6 @@
 package com.alecnoller.ijusthadthat;
 
+import android.R;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.DialogFragment;
